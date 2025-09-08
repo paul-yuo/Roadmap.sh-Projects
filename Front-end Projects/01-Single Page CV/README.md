@@ -7,6 +7,3 @@ This project includes:
 - SEO Meta Tags: Include essential meta tags for SEO.
 - Open Graph (OG) Tags: Add OG tags for better social media sharing.
 - Favicon: Add a favicon for your CV page.
-
-# Roadmap.sh project link
-[project URL](https://roadmap.sh/projects/single-page-cv)
